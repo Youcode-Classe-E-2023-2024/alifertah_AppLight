@@ -605,3 +605,11 @@ h3 {
 .col-md-12{
 	margin-top: 6rem;
 }
+
+*{
+	outline: none !important;
+}
+
+input:focus, textarea:focus{
+	border: 2px solid #5f0099 !important;
+}
