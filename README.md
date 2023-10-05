@@ -15,3 +15,6 @@ et on va évaluer votre pull request.
 ![](/images/screenshots/1.png)
 ![](/images/screenshots/2.png)
 ![](/images/screenshots/3.png)
+<div styles="margin: 0 auto;">
+    https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white
+</div>
