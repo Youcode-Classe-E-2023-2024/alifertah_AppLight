@@ -11,6 +11,7 @@ a {
 }
 a:hover {
 	color:#5f0099;
+	transition: .5s;
 }
 h1, h2, h3 {
 	font-weight: 700;
@@ -93,6 +94,7 @@ h6 {
 }
 .nav-scroll .nav-link:hover:after {
 	background-color: #2388ed;
+	transition: .5s
 }
 .nav-scroll .active {
 	position: relative;
@@ -217,6 +219,7 @@ h6 {
 	background:#8e1efc;
 	color:#ffffff;
 	text-decoration:none;
+	transition: .5s;
 }
 .video-section {
 	background: url(images/video-bg.jpg) no-repeat fixed center;
