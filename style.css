@@ -327,7 +327,7 @@ h6 {
 .testimonial {
 	background: #7a60ff;
 	background: linear-gradient(to left, #7a60ff, #cd9ffa);
-	padding:100px 0px;
+	/* padding:100px 0px; */
 	position:relative;
 }
 .testimonial::before {
