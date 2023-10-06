@@ -611,5 +611,5 @@ h3 {
 }
 
 input:focus, textarea:focus{
-	border: 2px solid #5f0099 !important;
+	border: 1px solid #5f0099 !important;
 }
